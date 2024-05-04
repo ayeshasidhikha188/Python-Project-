@@ -3,6 +3,7 @@
 ## PyString: A Comprehensive Suite of Custom String Methods
 
 PyString is a Python project that offers a comprehensive suite of custom string methods for text manipulation and transformation. This collection of functions provides various functionalities to work with strings, allowing users to perform tasks such as case conversion, character manipulation, whitespace handling, and more.
+![image](https://github.com/ayeshasidhikha188/Python-Project-/assets/147414813/4652a66a-c188-4e70-a690-e93d623d6d9a)
 
 ## Features
 
